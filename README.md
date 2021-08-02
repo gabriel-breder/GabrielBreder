@@ -16,6 +16,7 @@
   
   ### Contatos:
   
+  ![Snake animation](https://github.com/GabrielBreder/GabrielBreder/blob/output/github-contribution-grid-snake.svg)
   
 <!--  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/GabrielBreder/count.svg" />
