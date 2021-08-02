@@ -4,6 +4,7 @@
   <a href="https://github.com/GabrielBreder">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielBreder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBreder&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
   
  <div style="display: inline_block" align="center"><br>
@@ -17,10 +18,10 @@
   ### Contatos:
   
  <div align="center"> 
-  <a href="https://www.instagram.com/gabriel__berto/" target="_blank">
+  <a href="https://www.instagram.com/gabriel__berto/" target="_blank" color: "inherit">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-  <a href="mailto:gabrielbertobreder@gmail.com">
+  <a href="mailto:gabrielbertobreder@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
     </a>
   <a href="https://www.linkedin.com/in/gabriel-breder/" target="_blank">
@@ -30,10 +31,6 @@
 </div>
   
 <!--   ![Snake animation](https://github.com/GabrielBreder/GabrielBreder/blob/output/github-contribution-grid-snake.svg) -->
-  
-<!--  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/GabrielBreder/count.svg" />
- </p> -->
 
 <!-- 
 - 🔭 I’m currently working on ...
