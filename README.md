@@ -1,9 +1,9 @@
 ## Opa, meu nome é Gabriel Berto Breder 🤙
 
 <div align="center">
-  <a href="https://github.com/GabrielBreder">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielBreder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBreder&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/gabriel-breder">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-breder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-breder&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
   
@@ -30,7 +30,7 @@
  
 </div>
   
-<!--   ![Snake animation](https://github.com/GabrielBreder/GabrielBreder/blob/output/github-contribution-grid-snake.svg) -->
+<!--   ![Snake animation](https://github.com/GabrielBreder/gabriel-breder/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- 
 - 🔭 I’m currently working on ...
