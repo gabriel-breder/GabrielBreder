@@ -1,11 +1,11 @@
 ## Opa, meu nome é Gabriel Berto Breder 🤙
 
-<!-- <div align="center">
+ <div align="center">
   <a href="https://github.com/gabriel-breder">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-breder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
+  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-breder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-breder&layout=compact&langs_count=7&theme=radical"/>
   </a>
-</div> -->
+</div>
   
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JavaScript icon" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
